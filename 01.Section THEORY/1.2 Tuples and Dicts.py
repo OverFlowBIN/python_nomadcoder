@@ -13,4 +13,4 @@ alex = {
 
 print(alex['fav_food'])
 alex["hansome"] = True
-print(alex)
+print(type(alex))
